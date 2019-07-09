@@ -1,0 +1,17 @@
+img[src*="#100x100"] {
+    width=100px;
+    height=100px;
+}
+img[src*="#100p100"] {
+    width=100%;
+    height=100%;
+}
+img[src*="#64x64"] {
+    width=64px;
+    height=64px;
+}
+img[src*="#50p50"] {
+    width=50%;
+    height=50%;
+}
+
